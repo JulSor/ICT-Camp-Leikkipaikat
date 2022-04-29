@@ -1,4 +1,4 @@
-https://ict-camp-leikkipaikat.vercel.app
+https://leikkipaikat.vercel.app
 
 # Leikkipaikkojen melutasot  
 ICT-Campin projekti keväältä 2019
