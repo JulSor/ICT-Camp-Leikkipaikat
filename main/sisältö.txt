@@ -1,0 +1,3 @@
+Django luuranko
++ polku frontin templates kansioon
++ map.html (folium kartta + leikkipaikat)
